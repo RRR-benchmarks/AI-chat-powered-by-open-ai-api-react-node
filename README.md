@@ -5,11 +5,9 @@
 **Source Repository:**  
 https://github.com/karimbaggari/AI-chat-powered-by-open-ai-api-react-node
 
-**Reference Commit:**  
-35efb8427c6c421c86234a8da9a6f1d1a1b5a8dd
 
 **Note:**  
-To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this reference commit.
+To comply with double-blind review requirements, this fork’s commit history was anonymized. The transformed and instrumented codes included in this repository were produced from this source git repository (now removed from git).
 
 ---
 # Getting Started with Create React App
